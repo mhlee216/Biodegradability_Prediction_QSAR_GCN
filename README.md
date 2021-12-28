@@ -2,6 +2,6 @@
 
 ###### A Comparative Study of the Performance for Predicting Biodegradability Classification: QSAR Model vs. Graph Convolutional Network
 
-ACS Omega
+###### ACS Omega
 
-Myeonghun Lee, Kyoungmin Min
+###### Myeonghun Lee, Kyoungmin Min
