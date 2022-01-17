@@ -6,4 +6,4 @@ ACS Omega
 
 <a href="https://doi.org/10.1021/acsomega.1c06274">https://doi.org/10.1021/acsomega.1c06274</a>
 
-Myeonghun Lee, Kyoungmin Min
+Myeonghun Lee+, Kyoungmin Min*
